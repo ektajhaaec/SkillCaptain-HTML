@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<h1>My favorite Things</h2>
+<h2>Top 3 movies</h2>
+<ul>
+<li> The pursuit of happiness</li>
+<li> Standing Up,Falling Down</li>
+<li> Harry potter and the half blood prince</li>
+</ul>
+<h2>Weekly Task</h2>
+<ol>
+<li> Wake up</li>
+<li> Eat</li>
+<li> Sleep</li>
+</ol>
+<img src= "https://github.com/ektajhaaec/EktaImages/blob/main/image-1.png"alt="Some random image"width ="800" height ="800">
+</body>
+</html>
